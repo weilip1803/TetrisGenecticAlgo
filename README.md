@@ -1,5 +1,5 @@
 # TetrisGenecticAlgo
-To do list app that allows you to add your event to google calendar at the same time
+This Application would run the teris game on our AI engine.
 ## Installation
 The app was built on eclipse(https://eclipse.org/) IDE. It is recommended that the code is runned on the same IDE.
 ## Usage
